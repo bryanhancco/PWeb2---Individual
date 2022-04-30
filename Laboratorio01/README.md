@@ -57,10 +57,17 @@
 <tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
 <tbody>
-<tr><td><b>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</b></td></tr>
-<b>Trabajo individual:</b>
-<br>
-<b>Link:</b>
+<tr><td><b>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</b>
+   <ul>
+       <li>Se creo el repositorio GitHub</li>
+       <li>Se crearion los archivos Calculator y HolaMundo, ambos con la finalidad de probar previamente</li> 
+       <li>Se subio el README.md con el formato del estudiante</li>
+       <li>Se hicieron los commits</li>
+   </ul>
+    <img src="https://drive.google.com/drive/folders/1bXq96T6mxCgCqAySs88Yq-IRpIZrUJuW" alt= "commits" style="width:300px;height:325px;">
+    
+    
+    </td></tr>
 <ul>
 </ul>
 <tr><td><b>II. SOLUCIÓN DEL CUESTIONARIO</b></td></tr>
